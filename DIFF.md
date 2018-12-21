@@ -52,7 +52,7 @@
 特别说明，现代标点和合本“神”与“　神”无明显差异，但他们有一个另外文件，里面包含了所有“神”的情况，此外均为“　神”。
 
 ### 参考文献
-- [中英文电子圣经](http://www.ccctspm.org/bibleload)，来自[中国基督教网站](http://bible.ccctspm.org/)，最后更新于2005年，Windows 7 及以上需要以兼容运行。
+- [中英文电子圣经](http://www.ccctspm.org/bibleload)，来自[中国基督教网站](http://bible.ccctspm.org/)，最后更新于2010年（rar 文件时间），Windows 7 及以上需要以兼容运行。
 - [圣经时光](http://www.ccctspm.org/bibleapp)，来自[中国基督教网站](http://bible.ccctspm.org/)，最后更新于2017年，Android 8 及以上无法运行。
 - [精读圣经](http://www.christapp.net/)
 - 其他和合本
