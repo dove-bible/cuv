@@ -58,7 +58,7 @@
 ### 参考文献
 - [中英文电子圣经](http://www.ccctspm.org/bibleload)，来自[中国基督教网站](http://www.ccctspm.org/)，最后更新于2010年（rar 文件时间），Windows 7 及以上需要以兼容运行。
 - [圣经时光](http://www.ccctspm.org/bibleapp)，来自[中国基督教网站](http://www.ccctspm.org/)
-  - 2019年7月圣经时光发布新版1.81，数据文件与2017年发布的1.8一样，但可运行在最新Android系统上
+  - 2019年7月圣经时光发布新版1.81，数据文件与2017年发布的1.8一样，但可运行在最新Android系统上。
 - [如鸽圣经](https://bible.jianyu.io/)
 - [精读圣经](http://www.christapp.net/)
 - 其他和合本
